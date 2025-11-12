@@ -1,79 +1,88 @@
-👋 Hi, I'm Jahnvi Dhameliya
-🚀 Tech Lead | Full-Stack & Cloud Architect | AI Automation Enthusiast
+# 👋 Hi, I'm **Jahnvi Dhameliya**
 
-💡 Passionate about building scalable, secure, and intelligent web applications that deliver real business value.
-With 3+ years of experience leading cross-functional teams, I specialize in full-stack development, cloud architecture, DevOps, and AI-driven automation.
+### 🚀 Tech Lead | Full-Stack & Cloud Architect | AI Automation Enthusiast  
 
-🧠 About Me
+💡 Passionate about building **scalable, secure, and intelligent web applications** that deliver real business value.  
+With **3+ years of experience** leading cross-functional teams, I specialize in full-stack development, cloud architecture, DevOps, and AI-driven automation.
 
-💼 Tech Lead experienced in React, Node.js, PHP, TypeScript, and AWS Cloud
+---
 
-⚙️ Designing microservice-based, scalable backend architectures with CI/CD pipelines
+## 🧠 About Me
+- 💼 **Tech Lead** experienced in **React, Node.js, PHP, TypeScript, and AWS Cloud**
+- ⚙️ Designing **microservice-based, scalable backend architectures** with CI/CD pipelines  
+- ☁️ Skilled in **AWS (EC2, Lambda, RDS, CloudFront)** and containerization with **Docker**
+- 🔐 Focused on **security (VAPT)** and **performance optimization**
+- 🤝 Bridging the gap between **business, design, and engineering** teams  
+- 🤖 Exploring **AI-assisted development** using **OpenAI API, n8n, and Zapier**
 
-☁️ Skilled in AWS (EC2, Lambda, RDS, CloudFront) and containerization with Docker
+---
 
-🔐 Focused on security (VAPT), performance optimization, and maintainable code
+## 🧩 Core Skills
 
-🤝 Bridging the gap between business, design, and engineering teams
+**Frontend:**  
+`React` • `Next.js` • `TypeScript` • `Bootstrap` • `Gutenberg (WordPress)`
 
-💬 Advocate for AI-assisted development using tools like OpenAI API, n8n, and Zapier
+**Backend:**  
+`Node.js` • `PHP` • `Express` • `REST APIs` • `MySQL` • `MongoDB`
 
-🧩 Core Skills
+**Cloud & DevOps:**  
+`AWS (EC2, S3, Lambda, CloudFront, RDS)` • `Docker` • `CI/CD (GitHub Actions)` • `Nginx`
 
-Frontend:
-React | Next.js | TypeScript | Bootstrap | Gutenberg (WordPress)
+**AI & Automation:**  
+`OpenAI API` • `n8n` • `Zapier` • `ChatGPT Integrations`
 
-Backend:
-Node.js | PHP | Express | REST APIs | MySQL | MongoDB
+**Other Expertise:**  
+`Security Audits (VAPT)` • `Performance Optimization` • `Agile Leadership` • `Mentorship`
 
-Cloud & DevOps:
-AWS (EC2, S3, Lambda, CloudFront, RDS) | Docker | CI/CD (GitHub Actions) | Nginx
+---
 
-AI & Automation:
-OpenAI API | n8n | Zapier | ChatGPT Integrations
+## 🚀 Featured Projects
 
-Other Expertise:
-Security Audits (VAPT) | Performance Optimization | Agile Leadership | Mentorship
+### 🔹 [Enterprise Financial Operations Suite (EFOS)](#)
+> A scalable, multi-module financial suite integrating **CRM, GST, and audit automation** with secure backend APIs and AWS-hosted architecture.  
+**Tech Stack:** Node.js, PHP, AWS, MySQL, Docker  
 
-🏗️ Highlighted Projects
-🔹 Enterprise Financial Operations Suite (EFOS)
+### 🔹 [Voice-Controlled Smart Car](#)
+> IoT + AI voice-recognition system enabling real-time vehicle control with embedded sensors and explainable command interpretation.  
+**Tech Stack:** Python, IoT, AI, Embedded Systems  
 
-A scalable, multi-module financial suite integrating CRM, GST, and audit automation with secure backend APIs and AWS-hosted architecture.
-Stack: Node.js, PHP, AWS, MySQL, Docker
+### 🔹 [Cenomi Centers](#)
+> Multi-domain retail infrastructure with unified backend, automation, and CMS integration.  
+**Tech Stack:** React, WordPress, PHP, REST APIs  
 
-🔹 Voice-Controlled Smart Car
+### 🔹 [VEO Fitness Platform](#)
+> Full-stack fitness web app with authentication, bookings, and AWS deployment.  
+**Tech Stack:** React, Node.js, AWS  
 
-IoT + AI voice-recognition system enabling real-time vehicle control with embedded sensors and explainable command interpretation.
-Stack: Python, IoT, AI, Embedded Systems
+---
 
-🔹 Cenomi Centers
+## 🧾 Research
+📘 *A GUI-Integrated Deep Multi-Branch Multi-Fusion Feature Learning with Explainable AI on Enhanced GoogleNet for Software Defect Prediction* — under peer review *(2025)*
 
-Multi-domain retail infrastructure with unified backend, automation, and CMS integration.
-Stack: React, WordPress, PHP, REST APIs
+---
 
-🔹 VEO Fitness Platform
+## 🏆 Professional Highlights
+- 🧩 Led full-stack teams delivering **10+ enterprise-grade projects**
+- 🚀 Deployed **AWS-based CI/CD pipelines** improving release efficiency by 25%
+- 🔐 Achieved **GTMetrix A-grade performance & security compliance**
+- 💬 Mentored developers on **clean code, scalability, and cloud-native architecture**
 
-Full-stack fitness web app with authentication, bookings, and AWS deployment.
-Stack: React, Node.js, AWS
+---
 
-🧾 Research
+## 📈 GitHub Stats
 
-📘 A GUI-Integrated Deep Multi-Branch Multi-Fusion Feature Learning with Explainable AI on Enhanced GoogleNet for Software Defect Prediction — under peer review (2025).
+![Jahnvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JahnviDhameliya&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JahnviDhameliya&layout=compact&theme=tokyonight)
 
-🧑‍💻 Currently Exploring
+---
 
-Building serverless & event-driven architectures
+## 📫 Let's Connect
 
-Experimenting with AI-assisted DevOps pipelines
+🌐 [**Portfolio**](https://jahnvi-dhameliya-ibgqw0d.gamma.site)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/jahnvi-dhameliya-261455214/)  
+📧 **jahnvidhameliya58@gmail.com**  
+📍 Remote, India  
 
-Designing modular frontend systems with Next.js + TypeScript
+---
 
-🏆 Professional Highlights
-
-🧩 Led full-stack teams delivering 10+ enterprise-grade projects
-
-🚀 Deployed AWS-based CI/CD pipelines improving release efficiency by 25 %
-
-🔐 Achieved GTMetrix A-grade performance & security hardening for multiple web apps
-
-💬 Mentored developers on clean code, scalability, and cloud-native principles
+⭐ *“Technology should not just scale — it should empower.”*  
