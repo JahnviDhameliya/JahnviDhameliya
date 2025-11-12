@@ -69,10 +69,28 @@ With **3+ years of experience** leading cross-functional teams, I specialize in 
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Tech Snapshot
 
-![Jahnvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JahnviDhameliya&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JahnviDhameliya&layout=compact&theme=tokyonight)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/React-Frontend-blue?style=flat&logo=react)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=flat&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-success?style=flat&logo=githubactions)
+![TypeScript](https://img.shields.io/badge/TypeScript-Frontend-blue?style=flat&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-FullStack-787CB5?style=flat&logo=php)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-4EA94B?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql)
+![OpenAI](https://img.shields.io/badge/OpenAI-Integration-black?style=flat&logo=openai)
+
+---
+
+## 💼 Professional Contributions
+
+- 🧩 **Architected and deployed** full-stack applications serving thousands of users using **AWS, React, and Node.js**
+- 🔐 Improved **system security and scalability** for enterprise-level financial operations suite (EFOS)
+- 🚀 Led CI/CD automation and containerization with **Docker and GitHub Actions**
+- 🤖 Integrated **AI-driven automations** using **OpenAI API, n8n, and Zapier**
+- 👩‍🏫 Mentored junior engineers on **clean architecture and cloud-native design**
 
 ---
 
